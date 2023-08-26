@@ -1,5 +1,5 @@
 @contact-us @regression
-Feature: WebdriverUniversity - Contact Us Page
+Feature: WebdriverUniversity - Contact-Us Page
     Background: Pre-Condition
         Given I navigate to the webdriver page contact_us page
 
